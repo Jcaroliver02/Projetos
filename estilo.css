@@ -1,0 +1,115 @@
+#titulo{
+    text-align:center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font: size 50px;
+    text-align: center;
+}
+
+#imagem{
+    display:block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    }
+
+#video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+}
+
+#fotos{
+    margin-top: 25px;
+    padding: 17px;
+}
+
+#principal td,th,tr{
+    border: 1px solid;
+    color:black;
+    background-color:rgb(132, 207, 240);
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 30px;  
+    text-align: center;
+    padding: 3px;
+    border-color:#fff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:15px;
+}
+
+#produto{
+    border-style: solid;
+    padding: 5px; 
+    padding-top: 5px;
+    border-color: #aca6a6; 
+    display: inline-block; 
+    text-align: center;
+    margin-top: 25px;
+    padding: 20px;
+    padding-left: 46px;
+    padding-top: 50px;
+    border-spacing: 15px 50px;
+}
+
+#descricaoproduto{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:15px;
+}
+#paragrafo{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:15px;
+ 
+}
+
+#circulo{
+    border-radius: 50%;
+    }
+    
+#principios{
+    
+    display:inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#paragrafo-generico{
+    display:inline-block;
+   text-align:center;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-size:15px;
+}
+
+#bichinhos{
+    border-style: solid;
+    padding: 5px;
+    padding-top: 5px;
+    border-color: #aca6a6;
+    display: inline-block; 
+    text-align:center;
+    margin-top: 25px;
+    padding: 17px;
+}
+
+#pets{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+}
+
+#descricao{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:15px;
+   }
+
+#rodape{
+    background-color: #fff; 
+    text-align: center;
+    color:black;
+}
+
+
+
+
